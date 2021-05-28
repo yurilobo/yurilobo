@@ -19,4 +19,4 @@ Eu me chamo Yuri Anderson, sou estudante de Engenharia Telecomunicações e esto
 
 
 ![Personal Infos](https://github-readme-stats.vercel.app/api?username=yurilobo&show_icons=true&count_private=true&show_icons=true&icon_color=000505&title_color=000505&text_color=000505&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurilobo&hide=html,css&layout=compact&count_private=true&title_color=453DB8&hide_border=true)](https://github.com/eduardosbcabral)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurilobo&hide=html,css&layout=compact&count_private=true&title_color=453DB8&hide_border=true)](https://github.com/yurilobo)
