@@ -7,12 +7,12 @@
 
 ## Olá pessoal ,tudo bem ?
 
-Eu me chamo Yuri Anderson, sou estudande de Engenharia Telecomunicações e estou me desenvolvendo para atuar como Qa.
+Eu me chamo Yuri Anderson, sou estudante de Engenharia Telecomunicações e estou me desenvolvendo para atuar como Qa.
 
 
 - 🌱 Atualmente estudo um pouco sobre cypress e testes de Api.
 - 📰 Gosto de trabalhar com linguagens voltadas para web, fiz alguns projetinhos aqui.
-- 📡 Neste momento busco me desenvolver e aprender sobre qualidade e testes de softwares.
+- 📡 Busco me desenvolver e aprender sobre qualidade e testes de softwares.
 - ⚡ Curiosidade :Adoro dançar forró 😄
 
 - 🔍 Aberto a novas oportunidades.
