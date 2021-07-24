@@ -15,7 +15,7 @@ Eu me chamo Yuri Anderson, sou estudante de Engenharia Telecomunicações e esto
 - 📡 Busco me desenvolver e aprender sobre qualidade e testes de softwares.
 - ⚡ Curiosidade :Adoro dançar forró 😄
 
-- 🔍 Aberto a novas oportunidades.
+
 
 
 ![Personal Infos](https://github-readme-stats.vercel.app/api?username=yurilobo&show_icons=true&count_private=true&show_icons=true&icon_color=000505&title_color=000505&text_color=000505&hide_border=true)
