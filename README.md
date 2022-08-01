@@ -10,7 +10,7 @@
 Eu me chamo Yuri Anderson, sou estudante de Engenharia Telecomunicações e estou me desenvolvendo como Qa.
 
 
-- 🌱 Atualmente sou Qa junior na Compasso Uol e estudo um pouco sobre cypress e testes de Api.
+- 🌱 Atualmente sou Qa na Compasso Uol e estudo um pouco sobre cypress e testes de Api.
 - 📰 Gosto de trabalhar com linguagens voltadas para web, fiz alguns projetinhos aqui.
 - 📡 Busco me desenvolver e aprender sobre qualidade e testes de softwares.
 - ⚡ Curiosidade :Adoro dançar forró 😄
