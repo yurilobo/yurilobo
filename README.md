@@ -10,7 +10,7 @@
 Eu me chamo Yuri Anderson, sou estudante de Engenharia Telecomunicações e estou me desenvolvendo como Qa.
 
 
-- 🌱 Atualmente sou Qa na Avenue e estudo um pouco sobre cypress, go, flutter, maestro para testes mobile.
+- 🌱 Atualmente sou Qa na Avenue e estudo um pouco sobre cypress, go, flutter,testes de api e maestro para testes mobile.
 - 📰 Gosto de trabalhar com linguagens voltadas para web, fiz alguns projetinhos aqui.
 - 📡 Busco me desenvolver e aprender sobre qualidade e testes de softwares.
 - ⚡ Curiosidade :Adoro dançar forró 😄
